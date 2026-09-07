@@ -1,4 +1,4 @@
-# 💰 Finance Analyzer
+# 💰 Finance Analyser
 
 A decoupled, full-stack application designed to automate the normalization and categorization of messy bank statements using a hybrid Rule-Engine and AI approach.
 
